@@ -1,2 +1,4 @@
-telebot
-rembg
+pyTelegramBotAPI
+rembg[cpu]
+onnxruntime
+pillow

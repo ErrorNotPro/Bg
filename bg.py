@@ -4,7 +4,7 @@ from io import BytesIO
 from PIL import Image
 import os
 
-API_TOKEN = 'YOUR_BOT_TOKEN'
+API_TOKEN = '8233339248:AAGsB-4sJyeHsHliL6jXAucsr864g7wOXkI'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Pre-load the SMALL model to save RAM
